@@ -1,0 +1,147 @@
+table {
+    background-color: #0d131b;
+    font-family: "Arial";
+}
+
+h1, h2 {
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    color: #20b4bb;
+    font-size: 55px;
+}
+
+h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+
+.main {
+    background-color: #0d131b;
+}
+
+.text, .shirt {
+    color: #bcbcbd;
+}
+
+.presenttitle {
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.shirt {
+    text-align: center;
+    margin: 0;
+}
+
+.info {
+    color: #86918c;
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.link {
+    color: #fa5d26;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.linkinemail {
+    color: #e8a336;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.linkinemail:hover {
+    text-decoration: underline;
+}
+
+a .button {
+    text-align: center;
+}
+
+.buttonwrapper {
+    text-align: center;
+}
+
+.button {
+    font-size: 24px;
+    line-height: 22px;
+    min-width: 300px;
+    color: #fffff8;
+    font-weight: bold;
+    border-radius: 3px;
+    background-color: #9f15a9;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    padding-top: 18px;
+    padding-right: 30px;
+    padding-bottom: 14px;
+    padding-left: 30px;
+    margin-top: 42px;
+}
+
+.issue {
+    margin-top: 20px;
+}
+
+.offer {
+    font-size: 11px;
+    line-height: 22px;
+    color: #85908c;
+    font-weight: bold;
+    text-align: center;
+}
+
+.present {
+    color: #20b4bb;
+    text-transform: uppercase;
+}
+
+.compl {
+    color: #9f15a9;
+    text-transform: uppercase;
+}
+
+.rightback {
+    color: #263870;
+}
+
+.minus {
+    margin: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.downside {
+    padding-bottom: 60px;
+}
+
+.footer {
+    background-color: #ebd2aa;
+    text-align: center;
+}
+
+.links {
+    padding-top: 34px;
+    padding-bottom: 22px;
+}
+
+.social {
+    color: #b6590b;
+    text-decoration: none;
+}
+
+.social:hover {
+    text-decoration: underline;
+}
